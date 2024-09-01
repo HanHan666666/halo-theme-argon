@@ -1,8 +1,11 @@
-# Theme Modern Starter
 
-一个集成了现代前端技术栈的 Halo 2.0 的主题开发模板。
+# Halo-Theme-Argon
 
-主题开发文档可查阅：<https://docs.halo.run/2.0.0-SNAPSHOT/developer-guide/theme/prepare>
+[Argon-Theme](https://github.com/solstice23/argon-theme) 的 Halo 移植版
+
+# 关于
+
+Halo-Theme-Argon 移植自 WordPress 版 Argon 主题。
 
 ## 特性
 
